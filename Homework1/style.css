@@ -1,0 +1,25 @@
+body {
+    font-size: 18px;
+}
+
+#img {
+  width: 100px;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+table, th, td {
+  border: 1px solid black;
+  padding: 8px;
+}
+
+.Titles {
+    margin-left: 190px;
+}
+
+#presentation {
+    font-size: 20px;
+    margin-left: 220px;
+}
